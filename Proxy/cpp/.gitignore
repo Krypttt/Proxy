@@ -1,1 +1,6 @@
+.gitignore
 a.out
+test*.cpp
+*.json
+*.csv
+*.txt
